@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     marginBottom: 24,
     textAlign: "center",
+    fontFamily: "open-sans",
   },
 });
 export default InstructionsText;

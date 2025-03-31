@@ -28,7 +28,7 @@ function StartGameScreen({ onPickNumber }) {
 
   return (
     <View style={styles.rootContainer}>
-      <Title>Guess the number, nigger</Title>
+      <Title>Guess the number</Title>
       <Card>
         <InstructionsText>Enter your number</InstructionsText>
         <TextInput
